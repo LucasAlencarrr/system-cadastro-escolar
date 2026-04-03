@@ -1,15 +1,16 @@
 # system-cadastro-escolar
-🚀 Sistema de Gestão Acadêmica (MVP)
+
+## 🚀 Sistema de Gestão Acadêmica (MVP)
 Este projeto consiste no desenvolvimento de uma API para o gerenciamento de uma instituição de ensino, permitindo o controle de estudantes, disciplinas e professores. O foco principal é a implementação de operações CRUD (Create, Read, Update, Delete) e a introdução à persistência de dados.
 
-📋 Objetivos do Projeto
+## 📋 Objetivos do Projeto
 Gestão de Entidades: Implementar endpoints para o cadastro e manipulação de dados de alunos, docentes e turmas.
 
 Persistência de Dados: Migrar do armazenamento em memória para uma solução de banco de dados relacional.
 
 Padronização REST: Garantir que todos os recursos possuam os métodos HTTP adequados e respostas consistentes.
 
-🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 O projeto serve como base para o domínio das seguintes tecnologias:
 
 Linguagem: Python
@@ -20,7 +21,7 @@ Banco de Dados: SQLite (para desenvolvimento local) e suporte para PostgreSQL.
 
 Arquitetura: Organização de rotas e separação de responsabilidades.
 
-🛣️ Próximos Passos
+## 🛣️ Próximos Passos
 Expansão de Endpoints: Finalizar as rotas pendentes para garantir a cobertura completa das funcionalidades do sistema.
 
 Aprimoramento de Persistência: Otimizar as queries e a estrutura das tabelas utilizando SQLAlchemy ou instâncias diretas de SQL.
